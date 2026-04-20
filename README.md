@@ -31,7 +31,7 @@ This system manages the central database files:
 - `clientData.txt` – client accounts
 - `userData.txt` – employee credentials
 
-The [ATM Client System](https://github.com/MahmoudNabilElSoghier/ATM-Client-CPP) uses the same `clientData.txt` to provide customer-facing ATM operations.
+The [ATM Client System](https://github.com/MahmoudNabilElSoghier/CPP-ATM-Client-System) uses the same `clientData.txt` to provide customer-facing ATM operations.
 
 ## 📁 Project Structure
 ```text
