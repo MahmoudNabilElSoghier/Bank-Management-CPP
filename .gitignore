@@ -1,0 +1,9 @@
+*.exe
+*.out
+*.o
+x64/
+.vs/
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
